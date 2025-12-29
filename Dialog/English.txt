@@ -1,0 +1,4 @@
+codazen_CodazenLearnsToMap= codazen learns to map
+codazen_CodazenLearnsToMap_1_FiguringItOut= figuring it out
+
+codazen_CodazenLearnsToMap_1_FiguringItOut_postcard= I'm learning to map by trying to make a room a day. Feel free to give me feedback! :>
